@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "378d9be320f7b447",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b494ca1a7335b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e36104fc901f77a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-sales-system/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b53f5215139002d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d03f4c5a251d9ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6778c16ecc5e1c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81bdcd7b62a8c1f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cfb5fed54659bb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "107e3d7b4a14f84f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63c841e87ec11209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b8517f0d0610a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-sales-system/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "d845c5d3a5dc7e11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-sales-system/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "f50dcbbdabc6615d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b04ec06fd0fbbea3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2ea51568bd327b20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06-sales-system/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e36104fc901f77a0",
+  "lastOpenFiles": [
+    "05-products-and-templates/ai-receptionist/cursor-prompts.md",
+    "05-products-and-templates/ai-receptionist/reusable-components/README.md",
+    "03-prospects/new-leads/auto-shops/cedar-automotive/lead-research.md",
+    "03-prospects/new-leads/auto-shops/cedar-automotive/meeting-notes.md",
+    "03-prospects/new-leads/auto-shops/cedar-automotive/company-profile.md",
+    "03-prospects/new-leads/auto-shops/albert-auto-service/meeting-notes.md",
+    "03-prospects/new-leads/auto-shops/albert-auto-service/lead-research.md",
+    "03-prospects/new-leads/auto-shops/albert-auto-service/company-profile.md",
+    "TECH-STACK.md",
+    "03-prospects/new-leads/nonprofits/newbo-city-market/meeting-notes.md",
+    "03-prospects/new-leads/nonprofits/newbo-city-market/lead-research.md",
+    "03-prospects/new-leads/nonprofits/newbo-city-market/company-profile.md",
+    "03-prospects/new-leads/nonprofits/kids-first-law-center/meeting-notes.md",
+    "03-prospects/new-leads/nonprofits/kids-first-law-center/lead-research.md",
+    "03-prospects/new-leads/nonprofits/kids-first-law-center/company-profile.md",
+    "03-prospects/new-leads/nonprofits/indian-creek-nature-center/meeting-notes.md",
+    "03-prospects/new-leads/nonprofits/indian-creek-nature-center/lead-research.md",
+    "03-prospects/new-leads/nonprofits/indian-creek-nature-center/company-profile.md",
+    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa/meeting-notes.md",
+    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa/lead-research.md",
+    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa/company-profile.md",
+    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation/meeting-notes.md",
+    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation/lead-research.md",
+    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation/company-profile.md",
+    "03-prospects/new-leads/nonprofits/foundation-2/meeting-notes.md",
+    "03-prospects/new-leads/nonprofits/foundation-2/lead-research.md",
+    "03-prospects/new-leads/nonprofits/newbo-city-market",
+    "03-prospects/new-leads/nonprofits/kids-first-law-center",
+    "03-prospects/new-leads/nonprofits/indian-creek-nature-center",
+    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa",
+    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation",
+    "03-prospects/new-leads/nonprofits/foundation-2",
+    "03-prospects/new-leads/nonprofits/eastern-iowa-arts-academy",
+    "03-prospects/new-leads/nonprofits/cedar-rapids-parks-foundation",
+    "03-prospects/new-leads/nonprofits/boys-and-girls-clubs-corridor",
+    "03-prospects/new-leads/nonprofits/big-brothers-big-sisters-eci"
+  ]
+}

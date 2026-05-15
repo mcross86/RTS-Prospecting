@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-sales-system/README.md",
+                "file": "03-prospects/new-leads/auto-shops/cedar-automotive/lead-research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "lead-research"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-sales-system/README.md",
+                "file": "03-prospects/new-leads/auto-shops/cedar-automotive/lead-research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for lead-research"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-sales-system/README.md",
+                "file": "03-prospects/new-leads/auto-shops/cedar-automotive/lead-research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from lead-research"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-sales-system/README.md",
+                "file": "03-prospects/new-leads/auto-shops/cedar-automotive/lead-research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of lead-research"
             }
           }
         ]
@@ -185,32 +185,35 @@
   },
   "active": "e36104fc901f77a0",
   "lastOpenFiles": [
+    "03-prospects/new-leads/auto-shops/albert-auto-service/meeting-notes.md",
+    "03-prospects/new-leads/auto-shops/albert-auto-service/lead-research.md",
+    "03-prospects/new-leads/auto-shops/albert-auto-service/company-profile.md",
+    "02-industries/auto-shops/software-they-currently-use.md",
+    "02-industries/auto-shops/sales-script.md",
+    "02-industries/auto-shops/overview.md",
+    "02-industries/auto-shops/opportunity-score.md",
+    "02-industries/auto-shops/objections.md",
+    "02-industries/auto-shops/common-pain-points.md",
+    "02-industries/auto-shops/app-ideas.md",
+    "02-industries/auto-shops/case-studies/README.md",
+    "03-prospects/new-leads/hvac/air-comfort/meeting-notes.md",
+    "03-prospects/new-leads/hvac/air-comfort/lead-research.md",
+    "03-prospects/new-leads/hvac/air-comfort/company-profile.md",
+    "06-sales-system/README.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
     "05-products-and-templates/ai-receptionist/cursor-prompts.md",
     "05-products-and-templates/ai-receptionist/reusable-components/README.md",
     "03-prospects/new-leads/auto-shops/cedar-automotive/lead-research.md",
     "03-prospects/new-leads/auto-shops/cedar-automotive/meeting-notes.md",
     "03-prospects/new-leads/auto-shops/cedar-automotive/company-profile.md",
-    "03-prospects/new-leads/auto-shops/albert-auto-service/meeting-notes.md",
-    "03-prospects/new-leads/auto-shops/albert-auto-service/lead-research.md",
-    "03-prospects/new-leads/auto-shops/albert-auto-service/company-profile.md",
     "TECH-STACK.md",
     "03-prospects/new-leads/nonprofits/newbo-city-market/meeting-notes.md",
     "03-prospects/new-leads/nonprofits/newbo-city-market/lead-research.md",
     "03-prospects/new-leads/nonprofits/newbo-city-market/company-profile.md",
     "03-prospects/new-leads/nonprofits/kids-first-law-center/meeting-notes.md",
     "03-prospects/new-leads/nonprofits/kids-first-law-center/lead-research.md",
-    "03-prospects/new-leads/nonprofits/kids-first-law-center/company-profile.md",
-    "03-prospects/new-leads/nonprofits/indian-creek-nature-center/meeting-notes.md",
-    "03-prospects/new-leads/nonprofits/indian-creek-nature-center/lead-research.md",
-    "03-prospects/new-leads/nonprofits/indian-creek-nature-center/company-profile.md",
-    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa/meeting-notes.md",
-    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa/lead-research.md",
-    "03-prospects/new-leads/nonprofits/hawkeye-area-council-bsa/company-profile.md",
-    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation/meeting-notes.md",
-    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation/lead-research.md",
-    "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation/company-profile.md",
-    "03-prospects/new-leads/nonprofits/foundation-2/meeting-notes.md",
-    "03-prospects/new-leads/nonprofits/foundation-2/lead-research.md",
     "03-prospects/new-leads/nonprofits/newbo-city-market",
     "03-prospects/new-leads/nonprofits/kids-first-law-center",
     "03-prospects/new-leads/nonprofits/indian-creek-nature-center",
@@ -218,8 +221,6 @@
     "03-prospects/new-leads/nonprofits/greater-cedar-rapids-community-foundation",
     "03-prospects/new-leads/nonprofits/foundation-2",
     "03-prospects/new-leads/nonprofits/eastern-iowa-arts-academy",
-    "03-prospects/new-leads/nonprofits/cedar-rapids-parks-foundation",
-    "03-prospects/new-leads/nonprofits/boys-and-girls-clubs-corridor",
-    "03-prospects/new-leads/nonprofits/big-brothers-big-sisters-eci"
+    "03-prospects/new-leads/nonprofits/cedar-rapids-parks-foundation"
   ]
 }

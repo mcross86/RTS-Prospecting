@@ -1,4 +1,4 @@
-﻿# Auto shops — Opportunity score
+# Auto shops — Opportunity score
 
 Use factors from `../OPPORTUNITY-SCORING.md`. Sum and revisit after new calls.
 

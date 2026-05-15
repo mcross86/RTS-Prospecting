@@ -1,4 +1,4 @@
-﻿# Auto shops — Software they currently use
+# Auto shops — Software they currently use
 
 Track tools, spreadsheets, and shadow IT.
 

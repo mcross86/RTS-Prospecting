@@ -1,4 +1,4 @@
-﻿# Auto shops — Sales script
+# Auto shops — Sales script
 
 Opening, discovery prompts, and demo storyline. Refine after every win/loss.
 
